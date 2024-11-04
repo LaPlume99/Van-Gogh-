@@ -1,31 +1,17 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f4e3;
-    color: #5a4e48;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-
-.container {
-    background-color: #ffffff;
-    padding: 20px;
-    border-radius: 10px;
-    max-width: 600px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-h1 {
-    color: #b56576;
-    text-align: center;
-    font-size: 24px;
-}
-
-p {
-    line-height: 1.6;
-    margin-top: 10px;
-    font-size: 18px;
-}
+    font-family: Arial, sans-serif;<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تحليل لوحة فان جوخ - مزهرية بأزهار وردية</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>تحليل أدبي للوحة "مزهرية بأزهار وردية"</h1>
+        <p>لوحة "مزهرية بأزهار وردية" لفان جوخ تُظهر جانبًا من الجمال الذي يتجسد في البساطة والطبيعة...</p>
+        <p>الألوان، الضوء والظل، التكوين، والأسلوب الفني يعكسون عواطف فان جوخ العميقة وحبه للطبيعة...</p>
+    </div>
+</body>
+</html>
